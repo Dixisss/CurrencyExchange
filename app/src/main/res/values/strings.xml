@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exchange rates</string>
+    <string name="converter_screen_title">Converter</string>
+    <string name="detail_screen_title">Exchange</string>
+</resources>
